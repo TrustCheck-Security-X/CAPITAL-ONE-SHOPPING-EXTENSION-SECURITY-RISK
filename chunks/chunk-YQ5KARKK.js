@@ -1,0 +1,1 @@
+import{e as i}from"./chunk-4MWWZMVF.js";import{h as r,n as t}from"./chunk-2WJMAHXV.js";import{d as e,e as o}from"./chunk-WRIUWJSJ.js";o();function f({params:n={},isWbPublisher:a=!1}={}){return e({params:n,isWbPublisher:a,sessionId:r.get(["session","id"]),rewardsEngineEnabled:t("rewards_engine_enabled"),WIKIBUY_API:i})}export{f as a};
